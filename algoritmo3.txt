@@ -1,0 +1,6 @@
+leia lista de números
+começar variavel soma com 0
+para cada número da lista faça:
+	adicione o número a variavel soma
+então M = soma /quantidade de números da variavel soma
+escreva M
