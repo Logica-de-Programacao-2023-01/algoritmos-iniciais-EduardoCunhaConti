@@ -1,0 +1,7 @@
+leia T
+se T for celsius então
+	F = T x 1,8 + 32
+	escreva F
+senão 
+	C = (T - 32) /1,8
+	escreva C
